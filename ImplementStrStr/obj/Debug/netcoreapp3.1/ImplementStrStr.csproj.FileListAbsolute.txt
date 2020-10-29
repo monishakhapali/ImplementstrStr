@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.exe
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.deps.json
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.dll
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\bin\Debug\netcoreapp3.1\ImplementStrStr.pdb
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.dll
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.pdb
+C:\Users\monisha.khapali\source\repos\ImplementStrStr\ImplementStrStr\obj\Debug\netcoreapp3.1\ImplementStrStr.genruntimeconfig.cache
